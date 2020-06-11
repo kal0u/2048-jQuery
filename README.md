@@ -1,6 +1,6 @@
 # 2048-jQuery
 
-# Projet MicroBloggo - Coding Academy
+# Projet 2048 - Coding Academy
 
 Réalisation d'un 2048 en jQuery dans le cadre de la formation Code&Go d'Epitech.
 
