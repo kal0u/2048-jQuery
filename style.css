@@ -1,0 +1,105 @@
+html {
+    font-family: 'Lobster', cursive;
+}
+
+table {
+    margin: auto;
+    padding: 15px;
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    border: solid 1px white;
+    text-align: center;
+}
+
+body {
+    background-image: url("back.jpg");
+}
+
+#score {
+    text-align: center;
+    color : white;
+    font-size: 18px;
+}
+h2 {
+    text-align: center;
+    font-size : 36px;
+    color: white;
+}
+#audio {
+    text-align: center;
+}
+
+#replay {
+    position: absolute;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+}
+.wrapper {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 4%;
+}
+
+
+tr,td{
+    -moz-box-shadow:    inset 0 0 5px #000000;
+    -webkit-box-shadow: inset 0 0 5px #000000;
+    box-shadow:         inset 0 0 5px #000000;
+}
+
+.color_2 {
+    background-color: #cfa505;
+    color: white;
+}
+
+.color_4{
+    background-color: #ba9505;
+    color: white;
+}
+.color_8 {
+    background-color:#be96af ;
+    color: white; 
+}
+.color_16 {
+    background-color:#98798c  ;
+    color: white;
+}
+.color_32 {
+    background-color:#725a69 ;
+    color: white;
+}
+.color_64 {
+    background-color: #db504a;
+    color: white;
+}
+.color_128 {
+    background-color:#b4423d  ;
+    color: white;
+}
+.color_256 {
+    background-color:#8c3330 ;
+    color: white;
+}
+.color_512 {
+    background-color: #f6c0d0 ;
+    color: white;
+}
+.color_1024 {
+    background-color:#ca9eab ;
+    color: white;
+}
+.color_2048 {
+    background-color: #f26df9 ;
+    color: white;
+}
